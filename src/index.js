@@ -34,7 +34,7 @@ import {
   // SegmentPicker,
   Dialog,
   ActionSheet,
-  // Drawer,
+  Drawer,
   ImagePreview,
   // scroll
   Scroll,
@@ -85,7 +85,7 @@ const components = [
   // SegmentPicker,
   Dialog,
   ActionSheet,
-  // Drawer,
+  Drawer,
   ImagePreview,
   // scroll
   Scroll,
