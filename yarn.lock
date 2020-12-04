@@ -1090,9 +1090,9 @@ better-assert@~1.0.0:
   dependencies:
     callsite "1.0.0"
 
-better-scroll@^1.12.4:
-  version "1.12.4"
-  resolved "https://registry.yarnpkg.com/better-scroll/-/better-scroll-1.12.4.tgz#27d722fe7b6844176feb136da4f2fd39c70f973e"
+better-scroll@~1.12.6:
+  version "1.12.6"
+  resolved "https://registry.yarnpkg.com/better-scroll/-/better-scroll-1.12.6.tgz#7548860f8b8c08c87e5af062e1da6e2c68c98337"
   dependencies:
     babel-runtime "^6.0.0"
 
@@ -3477,7 +3477,11 @@ he@1.1.1, he@1.1.x, he@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
-highlight.js@^9.12.0, highlight.js@^9.4.0:
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+
+highlight.js@^9.4.0:
   version "9.12.0"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.12.0.tgz#e6d9dbe57cbefe60751f02af336195870c90c01e"
 
@@ -7164,6 +7168,10 @@ vm-browserify@0.0.4:
 void-elements@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
+
+vue-create-api@^0.2.0:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/vue-create-api/-/vue-create-api-0.2.3.tgz#920b4e76349cf6aef692a6f743b96dc09eade5cd"
 
 vue-hot-reload-api@^2.1.0:
   version "2.2.4"
