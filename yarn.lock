@@ -1090,9 +1090,9 @@ better-assert@~1.0.0:
   dependencies:
     callsite "1.0.0"
 
-better-scroll@^1.12.4:
-  version "1.12.4"
-  resolved "https://registry.yarnpkg.com/better-scroll/-/better-scroll-1.12.4.tgz#27d722fe7b6844176feb136da4f2fd39c70f973e"
+better-scroll@~1.12.6:
+  version "1.12.6"
+  resolved "https://registry.yarnpkg.com/better-scroll/-/better-scroll-1.12.6.tgz#7548860f8b8c08c87e5af062e1da6e2c68c98337"
   dependencies:
     babel-runtime "^6.0.0"
 
@@ -4691,8 +4691,8 @@ merge-descriptors@1.0.1:
   resolved "https://registry.yarnpkg.com/merge-descriptors/-/merge-descriptors-1.0.1.tgz#b00aaa556dd8b44568150ec9d1b953f3f90cbb61"
 
 merge@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 methods@~1.1.2:
   version "1.1.2"
@@ -7164,6 +7164,10 @@ vm-browserify@0.0.4:
 void-elements@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
+
+vue-create-api@^0.2.0:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/vue-create-api/-/vue-create-api-0.2.3.tgz#920b4e76349cf6aef692a6f743b96dc09eade5cd"
 
 vue-hot-reload-api@^2.1.0:
   version "2.2.4"
